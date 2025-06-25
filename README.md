@@ -2,6 +2,10 @@
 
 This repository showcases a complete, beginner-friendly **Azure Data Engineering project**, built using modern tools such as **Azure Data Factory**, **Databricks**, **PySpark**, **Azure Data Lake**, and **Azure DevOps** for CI/CD. It follows an end-to-end pipeline — from data ingestion to transformation and orchestration — with practical implementations aligned to real-world scenarios and interview preparation.
 
+## Architecture
+![Architecture](https://github.com/user-attachments/assets/d7e0187a-007e-4ac0-9b35-50a6b44b1fdf)
+
+
 ---
 
 ## 📊 Datasets Used
